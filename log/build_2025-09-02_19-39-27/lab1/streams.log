@@ -1,0 +1,38 @@
+[0.982s] Invoking command in '/home/ubuntu/Documents/LabFunda/lab_ws/src/frlabs/lab1': PYTHONPATH=/home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab1 build --build-base /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/build install --record /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/install.log --single-version-externally-managed install_data
+[1.194s] running egg_info
+[1.194s] creating ../../build/lab1/lab1.egg-info
+[1.194s] writing ../../build/lab1/lab1.egg-info/PKG-INFO
+[1.194s] writing dependency_links to ../../build/lab1/lab1.egg-info/dependency_links.txt
+[1.194s] writing entry points to ../../build/lab1/lab1.egg-info/entry_points.txt
+[1.195s] writing requirements to ../../build/lab1/lab1.egg-info/requires.txt
+[1.195s] writing top-level names to ../../build/lab1/lab1.egg-info/top_level.txt
+[1.196s] writing manifest file '../../build/lab1/lab1.egg-info/SOURCES.txt'
+[1.197s] reading manifest file '../../build/lab1/lab1.egg-info/SOURCES.txt'
+[1.197s] adding license file 'LICENSE'
+[1.197s] writing manifest file '../../build/lab1/lab1.egg-info/SOURCES.txt'
+[1.197s] running build
+[1.197s] running build_py
+[1.197s] creating /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/build
+[1.197s] creating /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/build/lib
+[1.197s] creating /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/build/lib/lab1
+[1.198s] copying lab1/__init__.py -> /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/build/lib/lab1
+[1.198s] copying lab1/nodo_hola.py -> /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/build/lib/lab1
+[1.198s] running install
+[1.199s] running install_lib
+[1.200s] creating /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/lib/python3.10/site-packages/lab1
+[1.200s] copying /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/build/lib/lab1/__init__.py -> /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/lib/python3.10/site-packages/lab1
+[1.200s] copying /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/build/lib/lab1/nodo_hola.py -> /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/lib/python3.10/site-packages/lab1
+[1.200s] byte-compiling /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/lib/python3.10/site-packages/lab1/__init__.py to __init__.cpython-310.pyc
+[1.200s] byte-compiling /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/lib/python3.10/site-packages/lab1/nodo_hola.py to nodo_hola.cpython-310.pyc
+[1.201s] running install_data
+[1.201s] creating /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/share/ament_index
+[1.201s] creating /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/share/ament_index/resource_index
+[1.201s] creating /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/share/ament_index/resource_index/packages
+[1.201s] copying resource/lab1 -> /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/share/ament_index/resource_index/packages
+[1.201s] copying package.xml -> /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/share/lab1
+[1.201s] running install_egg_info
+[1.202s] Copying ../../build/lab1/lab1.egg-info to /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/lib/python3.10/site-packages/lab1-0.0.0-py3.10.egg-info
+[1.202s] running install_scripts
+[1.221s] Installing nodo_hola script to /home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/lib/lab1
+[1.222s] writing list of installed files to '/home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/install.log'
+[1.280s] Invoked command in '/home/ubuntu/Documents/LabFunda/lab_ws/src/frlabs/lab1' returned '0': PYTHONPATH=/home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/Documents/LabFunda/lab_ws/src/install/lab1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab1 build --build-base /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/build install --record /home/ubuntu/Documents/LabFunda/lab_ws/src/build/lab1/install.log --single-version-externally-managed install_data

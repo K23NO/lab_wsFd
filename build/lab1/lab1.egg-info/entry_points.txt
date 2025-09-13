@@ -1,0 +1,3 @@
+[console_scripts]
+nodo_hola = lab1.nodo_hola:main
+

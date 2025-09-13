@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = lab2.nodo_pub:main
+subscriber = lab2.nodo_sub:main
+
